@@ -48,7 +48,7 @@ QQ 用户 ──私聊──▶ QQ 开放平台 ──WebSocket──▶ channel
 退出当前会话，使用 channel 标志重新启动：
 
 ```sh
-claude --dangerously-load-development-channels plugin:qqbot
+claude --dangerously-load-development-channels plugin:qqbot@claude-qq-channel
 ```
 
 **5. 配对**
