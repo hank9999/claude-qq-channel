@@ -1,0 +1,12 @@
+{
+  "name": "qqbot",
+  "description": "QQ Bot channel for Claude Code \u2014 messaging bridge with built-in access control. Manage pairing, allowlists, and policy via /qqbot:access.",
+  "version": "0.0.1",
+  "keywords": [
+    "qqbot",
+    "qq",
+    "messaging",
+    "channel",
+    "mcp"
+  ]
+}
