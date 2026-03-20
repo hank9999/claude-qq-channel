@@ -31,7 +31,8 @@ QQ 用户 ──私聊──▶ QQ 开放平台 ──WebSocket──▶ channel
 以下为 Claude Code 命令 — 先运行 `claude` 启动会话。
 
 ```
-/plugin install github:hank9999/claude-qq-channel
+/plugin marketplace add hank9999/claude-qq-channel
+/plugin install qqbot@claude-qq-channel
 ```
 
 **3. 配置凭证**
