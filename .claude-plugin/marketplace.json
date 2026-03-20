@@ -1,22 +1,16 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "claude-qq-channel",
+  "description": "QQ Bot channel plugin for Claude Code",
   "owner": {
     "name": "hank9999"
-  },
-  "metadata": {
-    "description": "QQ Bot channel plugin for Claude Code"
   },
   "plugins": [
     {
       "name": "qqbot",
-      "source": ".",
       "description": "QQ Bot channel for Claude Code — messaging bridge with built-in access control.",
-      "version": "0.0.1",
-      "author": {
-        "name": "hank9999"
-      },
-      "license": "MIT",
-      "keywords": ["qqbot", "qq", "messaging", "channel", "mcp"]
+      "category": "productivity",
+      "source": "./"
     }
   ]
 }
